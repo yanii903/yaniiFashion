@@ -1,0 +1,12 @@
+<!-- Javascript -->
+<script type="text/javascript" src="/myProject/view/assets/fe/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/jquery.min.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/swiper-bundle.min.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/carousel.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/lazysize.min.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/count-down.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/wow.min.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/multiple-modal.js"></script>
+<script type="text/javascript" src="/myProject/view/assets/fe/js/main.js"></script>
